@@ -1,5 +1,5 @@
 
-const API_URL = 'http://www.omdbapi.com?apikey=1b26c0b1'
+const API_URL = 'https://www.omdbapi.com?apikey=1b26c0b1'
 
 $(document).ready(() => {
     $('form').on('submit', (e) => {
